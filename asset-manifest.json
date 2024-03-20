@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chitragupt-foundation/static/css/main.949360e6.css",
-    "main.js": "/chitragupt-foundation/static/js/main.884abf6b.js",
+    "main.css": "/chitragupt-foundation/static/css/main.d4042e7f.css",
+    "main.js": "/chitragupt-foundation/static/js/main.43d2f152.js",
     "static/js/453.1f128a1b.chunk.js": "/chitragupt-foundation/static/js/453.1f128a1b.chunk.js",
     "static/media/rescue.jpg": "/chitragupt-foundation/static/media/rescue.25cb260ae753dcba2e21.jpg",
     "static/media/back.jpg": "/chitragupt-foundation/static/media/back.148f502d8b10fb98a36b.jpg",
@@ -13,12 +13,12 @@
     "static/media/adopt.jpg": "/chitragupt-foundation/static/media/adopt.c8928e8626e74e76bd1e.jpg",
     "static/media/logo.svg": "/chitragupt-foundation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chitragupt-foundation/index.html",
-    "main.949360e6.css.map": "/chitragupt-foundation/static/css/main.949360e6.css.map",
-    "main.884abf6b.js.map": "/chitragupt-foundation/static/js/main.884abf6b.js.map",
+    "main.d4042e7f.css.map": "/chitragupt-foundation/static/css/main.d4042e7f.css.map",
+    "main.43d2f152.js.map": "/chitragupt-foundation/static/js/main.43d2f152.js.map",
     "453.1f128a1b.chunk.js.map": "/chitragupt-foundation/static/js/453.1f128a1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.949360e6.css",
-    "static/js/main.884abf6b.js"
+    "static/css/main.d4042e7f.css",
+    "static/js/main.43d2f152.js"
   ]
 }
