@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/chitragupt-foundation/static/css/main.193ff368.css",
-    "main.js": "/chitragupt-foundation/static/js/main.cc1c5b2f.js",
+    "main.css": "/chitragupt-foundation/static/css/main.26d0b0ba.css",
+    "main.js": "/chitragupt-foundation/static/js/main.20c65cc1.js",
     "static/js/453.1f128a1b.chunk.js": "/chitragupt-foundation/static/js/453.1f128a1b.chunk.js",
     "static/media/rescue.jpg": "/chitragupt-foundation/static/media/rescue.25cb260ae753dcba2e21.jpg",
     "static/media/back.jpg": "/chitragupt-foundation/static/media/back.148f502d8b10fb98a36b.jpg",
     "static/media/care.jpg": "/chitragupt-foundation/static/media/care.18a67c7a41e27193fa62.jpg",
+    "static/media/adopt.jpg": "/chitragupt-foundation/static/media/adopt.c8928e8626e74e76bd1e.jpg",
     "static/media/shelter.jpg": "/chitragupt-foundation/static/media/shelter.75f604a0e3fa909caa6e.jpg",
     "static/media/wards.jpg": "/chitragupt-foundation/static/media/wards.9368413b8c543c7258ce.jpg",
     "static/media/logo.png": "/chitragupt-foundation/static/media/logo.6fc6b0d05fd11821e22c.png",
     "static/media/vet.jpg": "/chitragupt-foundation/static/media/vet.f3ebc6e80bbcbbbb2f78.jpg",
-    "static/media/adopt.jpg": "/chitragupt-foundation/static/media/adopt.c8928e8626e74e76bd1e.jpg",
     "static/media/logo.svg": "/chitragupt-foundation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chitragupt-foundation/index.html",
-    "main.193ff368.css.map": "/chitragupt-foundation/static/css/main.193ff368.css.map",
-    "main.cc1c5b2f.js.map": "/chitragupt-foundation/static/js/main.cc1c5b2f.js.map",
+    "main.26d0b0ba.css.map": "/chitragupt-foundation/static/css/main.26d0b0ba.css.map",
+    "main.20c65cc1.js.map": "/chitragupt-foundation/static/js/main.20c65cc1.js.map",
     "453.1f128a1b.chunk.js.map": "/chitragupt-foundation/static/js/453.1f128a1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.193ff368.css",
-    "static/js/main.cc1c5b2f.js"
+    "static/css/main.26d0b0ba.css",
+    "static/js/main.20c65cc1.js"
   ]
 }
