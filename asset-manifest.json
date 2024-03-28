@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/chitragupt-foundation/static/css/main.58344d52.css",
-    "main.js": "/chitragupt-foundation/static/js/main.92000047.js",
+    "main.js": "/chitragupt-foundation/static/js/main.957e67f2.js",
     "static/js/453.f70d58c2.chunk.js": "/chitragupt-foundation/static/js/453.f70d58c2.chunk.js",
     "static/media/residents.jpg": "/chitragupt-foundation/static/media/residents.0dfcfc86b0c47b6b416c.jpg",
     "static/media/founders.jpg": "/chitragupt-foundation/static/media/founders.c8fb8e85cbfe0cfc55e8.jpg",
+    "static/media/0.jpeg": "/chitragupt-foundation/static/media/0.26fc42a356a6b266189f.jpeg",
     "static/media/rescue.jpg": "/chitragupt-foundation/static/media/rescue.25cb260ae753dcba2e21.jpg",
     "static/media/20.jpeg": "/chitragupt-foundation/static/media/20.b3dbd7c9d5d68b15aca9.jpeg",
-    "static/media/1.jpeg": "/chitragupt-foundation/static/media/1.042b4d04522b375dfc26.jpeg",
+    "static/media/1.jpeg": "/chitragupt-foundation/static/media/1.7a4b4ffb615618b491f6.jpeg",
     "static/media/surrender.jpg": "/chitragupt-foundation/static/media/surrender.78684d17884c3a744236.jpg",
     "static/media/10.jpeg": "/chitragupt-foundation/static/media/10.6528516f2a642f43e169.jpeg",
     "static/media/care.jpg": "/chitragupt-foundation/static/media/care.18a67c7a41e27193fa62.jpg",
     "static/media/11.jpeg": "/chitragupt-foundation/static/media/11.3addd305783aa1fc2949.jpeg",
-    "static/media/0.jpeg": "/chitragupt-foundation/static/media/0.26fc42a356a6b266189f.jpeg",
     "static/media/16.jpeg": "/chitragupt-foundation/static/media/16.de1c92c6409b0253a02a.jpeg",
     "static/media/19.jpeg": "/chitragupt-foundation/static/media/19.73cb4697ab2f77bb34ca.jpeg",
     "static/media/21.jpeg": "/chitragupt-foundation/static/media/21.be8b6fbe9268a2009738.jpeg",
@@ -20,15 +20,15 @@
     "static/media/15.jpeg": "/chitragupt-foundation/static/media/15.ea7a79fced5623c7c23e.jpeg",
     "static/media/18.jpeg": "/chitragupt-foundation/static/media/18.2510e2d2551281d4cbe3.jpeg",
     "static/media/17.jpeg": "/chitragupt-foundation/static/media/17.4b1cea4fff8492e2a2e5.jpeg",
+    "static/media/3.jpeg": "/chitragupt-foundation/static/media/3.0d3505dbe9be08531536.jpeg",
+    "static/media/2.jpeg": "/chitragupt-foundation/static/media/2.58d7394323cfeb371f6b.jpeg",
     "static/media/14.jpeg": "/chitragupt-foundation/static/media/14.380152f2a60bd611b787.jpeg",
     "static/media/9.jpeg": "/chitragupt-foundation/static/media/9.26fc42a356a6b266189f.jpeg",
-    "static/media/3.jpeg": "/chitragupt-foundation/static/media/3.0d3505dbe9be08531536.jpeg",
     "static/media/8.jpeg": "/chitragupt-foundation/static/media/8.c5e5c7b0b051410b64d1.jpeg",
     "static/media/6.jpeg": "/chitragupt-foundation/static/media/6.4e87f868e3053723c6ec.jpeg",
     "static/media/4.jpeg": "/chitragupt-foundation/static/media/4.bbaca0113c2f26165a42.jpeg",
     "static/media/13.jpeg": "/chitragupt-foundation/static/media/13.59ba42891f62a8cfab7a.jpeg",
     "static/media/12.jpeg": "/chitragupt-foundation/static/media/12.682e98b3e99391762d99.jpeg",
-    "static/media/2.jpeg": "/chitragupt-foundation/static/media/2.58d7394323cfeb371f6b.jpeg",
     "static/media/7.jpeg": "/chitragupt-foundation/static/media/7.294c449014f190c3ea39.jpeg",
     "static/media/5.jpeg": "/chitragupt-foundation/static/media/5.042b4d04522b375dfc26.jpeg",
     "static/media/donate.jpg": "/chitragupt-foundation/static/media/donate.89da439e30c8b37beddd.jpg",
@@ -44,11 +44,11 @@
     "static/media/logo.svg": "/chitragupt-foundation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/chitragupt-foundation/index.html",
     "main.58344d52.css.map": "/chitragupt-foundation/static/css/main.58344d52.css.map",
-    "main.92000047.js.map": "/chitragupt-foundation/static/js/main.92000047.js.map",
+    "main.957e67f2.js.map": "/chitragupt-foundation/static/js/main.957e67f2.js.map",
     "453.f70d58c2.chunk.js.map": "/chitragupt-foundation/static/js/453.f70d58c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58344d52.css",
-    "static/js/main.92000047.js"
+    "static/js/main.957e67f2.js"
   ]
 }
