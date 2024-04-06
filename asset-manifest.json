@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b858bcb8.css",
-    "main.js": "/static/js/main.e05ed624.js",
+    "main.js": "/static/js/main.7daef07c.js",
     "static/js/453.f70d58c2.chunk.js": "/static/js/453.f70d58c2.chunk.js",
     "static/media/residents.jpg": "/static/media/residents.0dfcfc86b0c47b6b416c.jpg",
     "static/media/founders.jpg": "/static/media/founders.c8fb8e85cbfe0cfc55e8.jpg",
@@ -11,16 +11,15 @@
     "static/media/1.jpeg": "/static/media/1.7a4b4ffb615618b491f6.jpeg",
     "static/media/surrender.jpg": "/static/media/surrender.78684d17884c3a744236.jpg",
     "static/media/10.jpeg": "/static/media/10.6528516f2a642f43e169.jpeg",
-    "static/media/care.jpg": "/static/media/care.18a67c7a41e27193fa62.jpg",
     "static/media/11.jpeg": "/static/media/11.3addd305783aa1fc2949.jpeg",
     "static/media/16.jpeg": "/static/media/16.de1c92c6409b0253a02a.jpeg",
     "static/media/19.jpeg": "/static/media/19.73cb4697ab2f77bb34ca.jpeg",
     "static/media/21.jpeg": "/static/media/21.be8b6fbe9268a2009738.jpeg",
-    "static/media/shelter.jpeg": "/static/media/shelter.0922aa52c5c013716259.jpeg",
+    "static/media/shelter.jpeg": "/static/media/shelter.9a64fe7e333a0c3f8384.jpeg",
     "static/media/15.jpeg": "/static/media/15.ea7a79fced5623c7c23e.jpeg",
     "static/media/18.jpeg": "/static/media/18.2510e2d2551281d4cbe3.jpeg",
     "static/media/17.jpeg": "/static/media/17.4b1cea4fff8492e2a2e5.jpeg",
-    "static/media/3.jpeg": "/static/media/3.0d3505dbe9be08531536.jpeg",
+    "static/media/3.jpeg": "/static/media/3.9a64fe7e333a0c3f8384.jpeg",
     "static/media/2.jpeg": "/static/media/2.58d7394323cfeb371f6b.jpeg",
     "static/media/22.jpeg": "/static/media/22.380152f2a60bd611b787.jpeg",
     "static/media/9.jpeg": "/static/media/9.26fc42a356a6b266189f.jpeg",
@@ -33,12 +32,13 @@
     "static/media/5.jpeg": "/static/media/5.042b4d04522b375dfc26.jpeg",
     "static/media/14.jpeg": "/static/media/14.56981b5b1a1f9a0de7b4.jpeg",
     "static/media/donate.jpg": "/static/media/donate.89da439e30c8b37beddd.jpg",
-    "static/media/shelter.jpg": "/static/media/shelter.75f604a0e3fa909caa6e.jpg",
     "static/media/back.jpg": "/static/media/back.ed68799af4f74d6740cf.jpg",
     "static/media/wards.jpg": "/static/media/wards.9368413b8c543c7258ce.jpg",
     "static/media/adopt.jpg": "/static/media/adopt.c8928e8626e74e76bd1e.jpg",
     "static/media/logo.png": "/static/media/logo.6fc6b0d05fd11821e22c.png",
     "static/media/vet.jpg": "/static/media/vet.f3ebc6e80bbcbbbb2f78.jpg",
+    "static/media/care.jpeg": "/static/media/care.d3e12d71c4639ac57365.jpeg",
+    "static/media/rescue.jpeg": "/static/media/rescue.5eb5e461976af04104ec.jpeg",
     "static/media/success.png": "/static/media/success.e39fa5f54a849d8fc1a5.png",
     "static/media/ig.png": "/static/media/ig.b4ff9be06a8f84fada1b.png",
     "static/media/warning.png": "/static/media/warning.3edfba26131fd11e12ed.png",
@@ -49,11 +49,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.b858bcb8.css.map": "/static/css/main.b858bcb8.css.map",
-    "main.e05ed624.js.map": "/static/js/main.e05ed624.js.map",
+    "main.7daef07c.js.map": "/static/js/main.7daef07c.js.map",
     "453.f70d58c2.chunk.js.map": "/static/js/453.f70d58c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b858bcb8.css",
-    "static/js/main.e05ed624.js"
+    "static/js/main.7daef07c.js"
   ]
 }
