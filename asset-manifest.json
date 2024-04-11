@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.01ca64f7.css",
-    "main.js": "/static/js/main.b59e9734.js",
+    "main.js": "/static/js/main.831627c0.js",
     "static/js/453.f70d58c2.chunk.js": "/static/js/453.f70d58c2.chunk.js",
     "static/media/founders.jpg": "/static/media/founders.c8fb8e85cbfe0cfc55e8.jpg",
     "static/media/0.jpeg": "/static/media/0.26fc42a356a6b266189f.jpeg",
@@ -38,7 +38,7 @@
     "static/media/canvas.jpeg": "/static/media/canvas.0bf458f5ba9e16c68369.jpeg",
     "static/media/kaju.jpeg": "/static/media/kaju.1113f6e28bda33893f20.jpeg",
     "static/media/adopt.jpg": "/static/media/adopt.fdaeed226a3cb72f108c.jpg",
-    "static/media/logo.png": "/static/media/logo.6fc6b0d05fd11821e22c.png",
+    "static/media/logo.png": "/static/media/logo.8791be4626575b07a6bf.png",
     "static/media/care.jpeg": "/static/media/care.d3e12d71c4639ac57365.jpeg",
     "static/media/vet.jpeg": "/static/media/vet.2490b7b73152c9873ed4.jpeg",
     "static/media/rescue.jpeg": "/static/media/rescue.480b8a92ca9dc709888c.jpeg",
@@ -53,11 +53,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.01ca64f7.css.map": "/static/css/main.01ca64f7.css.map",
-    "main.b59e9734.js.map": "/static/js/main.b59e9734.js.map",
+    "main.831627c0.js.map": "/static/js/main.831627c0.js.map",
     "453.f70d58c2.chunk.js.map": "/static/js/453.f70d58c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01ca64f7.css",
-    "static/js/main.b59e9734.js"
+    "static/js/main.831627c0.js"
   ]
 }
