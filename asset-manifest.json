@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b80b7340.css",
+    "main.css": "/static/css/main.32093960.css",
     "main.js": "/static/js/main.6285a25c.js",
     "static/js/453.f70d58c2.chunk.js": "/static/js/453.f70d58c2.chunk.js",
     "static/media/residents.jpg": "/static/media/residents.0dfcfc86b0c47b6b416c.jpg",
@@ -24,11 +24,11 @@
     "static/media/22.jpeg": "/static/media/22.380152f2a60bd611b787.jpeg",
     "static/media/9.jpeg": "/static/media/9.26fc42a356a6b266189f.jpeg",
     "static/media/8.jpeg": "/static/media/8.c5e5c7b0b051410b64d1.jpeg",
-    "static/media/back.jpeg": "/static/media/back.26e12af95693563d5595.jpeg",
     "static/media/6.jpeg": "/static/media/6.4e87f868e3053723c6ec.jpeg",
     "static/media/4.jpeg": "/static/media/4.bbaca0113c2f26165a42.jpeg",
     "static/media/13.jpeg": "/static/media/13.59ba42891f62a8cfab7a.jpeg",
     "static/media/12.jpeg": "/static/media/12.682e98b3e99391762d99.jpeg",
+    "static/media/backh.jpeg": "/static/media/backh.387e7a13db9b9311fd75.jpeg",
     "static/media/7.jpeg": "/static/media/7.294c449014f190c3ea39.jpeg",
     "static/media/wards.jpeg": "/static/media/wards.4944f57cd067cbd621ce.jpeg",
     "static/media/5.jpeg": "/static/media/5.042b4d04522b375dfc26.jpeg",
@@ -49,12 +49,12 @@
     "static/media/close.png": "/static/media/close.aeec27d34d04f9b7e97f.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.b80b7340.css.map": "/static/css/main.b80b7340.css.map",
+    "main.32093960.css.map": "/static/css/main.32093960.css.map",
     "main.6285a25c.js.map": "/static/js/main.6285a25c.js.map",
     "453.f70d58c2.chunk.js.map": "/static/js/453.f70d58c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b80b7340.css",
+    "static/css/main.32093960.css",
     "static/js/main.6285a25c.js"
   ]
 }
